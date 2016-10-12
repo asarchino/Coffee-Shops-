@@ -4,15 +4,17 @@ body{
     }
 p{
   font-family: cursive;
-  background-color: #f5f5dc
+  background-color: #f5f5dc;
+  font-size: 30px;
 }
 ul{
   font-family: cursive;
 }
 h1{
   font-family: fantasy;
-  font-size: 26px
+  font-size: 34px
 }
 h2{
   font-family: fantasy;
+  font-size: 32px;
 }
